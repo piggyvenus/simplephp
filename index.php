@@ -1,6 +1,6 @@
 <?php
 
-echo "<H1>Welcome to the PHPAPP TWO application!</H1><br>";
+echo "<H1>Welcome to the PHPAPP application!</H1><br>";
 
 
 
