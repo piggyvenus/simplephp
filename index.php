@@ -11,12 +11,12 @@ function getRequestHeaders() {
     }
     return $headers;
 }
-
 $headers = getRequestHeaders();
-
+/*
 foreach ($headers as $header => $value) {
     echo "$header: $value <br />\n";
 }
+*/
 
 echo "<H1>Welcome to OpenShiftv3!</H1><br>";
 echo "<br>";
